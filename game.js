@@ -76,7 +76,7 @@ var mainState = {
     restartGame: function() {
         game.state.start('main');
     },
-
+//test push
     addOnePipe: function(x, y) {
         var pipe = this.pipes.getFirstDead();
 
